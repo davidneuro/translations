@@ -15,9 +15,9 @@ msgstr ""
 "X-Poedit-SearchPath-0: test\n"
 
 #: test:1
-msgid "string_1"
+msgid "title"
 msgstr ""
 
 #: test:2
-msgid "string_2"
+msgid "intro"
 msgstr ""
