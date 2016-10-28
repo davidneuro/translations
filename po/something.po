@@ -14,8 +14,10 @@ msgstr ""
 "Language: en\n"
 "X-Poedit-SearchPath-0: test\n"
 
+#: test:1
 msgid "string_1"
 msgstr ""
 
+#: test:2
 msgid "string_2"
 msgstr ""
